@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:gray;
+	border-radius:
+}
+h1{
+	text-align:center;
+	color:white;
+	padding:1px;
+}
+.images{
+	display:grid;
+	grid-template-columns:auto auto auto;
+	padding:10px;
+	
+}
+.animals{
+	border-radius: 50%;
+}
